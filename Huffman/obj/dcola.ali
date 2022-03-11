@@ -1,0 +1,63 @@
+V "GNAT Lib v2019"
+A -gnatA
+A -g
+A -g
+A -gnata
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_EXCEPTIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U dcola%b		dcola.adb		95fadc1f NE OO PK GE IL
+
+U dcola%s		dcola.ads		a4405403 BN EE NE OO PK GE IL
+
+D dcola.ads		20210427060836 a4405403 dcola%s
+D dcola.adb		20210427060804 31ba881c dcola%b
+D system.ads		20190518041258 32a08138 system%s
+G a e
+G c Z s b [dcola standard 5 9 none]
+X 1 dcola.ads
+2+9 elem 14r44 16r48 21r45 2|12r43 34r47
+3i4 tamaño{integer} 20r40 2|3r36 17r12
+5k9*dcola 2z9 3z4 20E9 27l5 27e10 2|1b14 42l5 42t10
+6R9*cola 13r30 14r32 15r40 16r35 17r31 22c9 26e14 2|5r29 12r31 22r40 29r32
+. 34r34
+9X4*mal_uso 2|26r25 39r25
+10X4*espacio_desbordado 2|18r16
+13U14*cvacia 13<22 2|5b14 11l8 11t14
+13r22 qu{6R9} 2|5b21 6m25 6r25 7m25 7r25 8m26 8r26
+14U14*poner 14=21 14>38 2|12b14 21l8 21t13
+14r21 qu{6R9} 2|12b20 13m34 13r34 14m25 14r25 15m26 15r26
+14*38 x{2+9} 2|12b37 20r14
+15U14*borrar_primero 15=29 2|22b14 28l8 28t22
+15r29 qu{6R9} 2|22b29 23m25 23r25 24m26 24r26
+16V13*coger_primero{2+9} 16>28 2|34b13 41l8 41t21
+16r28 qu{6R9} 2|34b27 35r34 36r25 37r26
+17V13*esta_vacia{boolean} 17>24 2|29b13 33l8 33t18
+17r24 qu{6R9} 2|29b25 30r26
+20I9 indice<integer> 21r34 24r13 2|3r18 3r28 6r10 7r10 14r10 23r10 36r10
+21A9 espacio_memoria(2+9)<20I9> 23r10 2|13r10 35r10
+23a7 a{21A9} 2|13m37 35m37
+24i7 p{20I9} 2|6m28 14m28
+24i10 q{20I9} 2|7m28 23m28 36m28
+25i7 n{natural} 2|8m29 15m29 24m29 30m29 37m29
+X 2 dcola.adb
+3i4 max{1|20I9} 20r27 27r17
+6i7 p{1|20I9} 10r7
+7i7 q{1|20I9} 10r14
+8i7 n{natural} 10r21
+13a7 a{1|21A9} 20r7
+14i7 p{1|20I9} 20r9 20r17 20r21
+15i7 n{natural} 17r10 20r36 20r40
+23i7 q{1|20I9} 27r7 27r11
+24i7 n{natural} 26r10 27r26 27r30
+30i7 n{natural} 32r14
+35a7 a{1|21A9} 40r14
+36i7 q{1|20I9} 40r16
+37i7 n{natural} 39r10
+

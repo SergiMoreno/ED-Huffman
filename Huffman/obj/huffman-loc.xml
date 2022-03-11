@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\usuario\Desktop\Projects\ED\Huffman_documendo (1)\Huffman_documentat\Huffman\huffman.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\usuario\Desktop\Projects\ED\Huffman_documendo (1)\Huffman_documentat\Huffman\(1)\Huffman_documentat\Huffman\huffman.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\usuario\Desktop\Projects\ED\Huffman_documendo (1)\Huffman_documentat\Huffman\huffman.gpr</vfs_project>
+      <vfs_file>C:\Users\usuario\Desktop\Projects\ED\Huffman_documendo (1)\Huffman_documentat\Huffman\src\huffman.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_file>
+    <file_marker column=" 26" line=" 2">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2019\bin\helloworld.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2019\bin\helloworld.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 2">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2019\bin\helloworld.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 4">
+      <vfs_project >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\src\huffman.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\src\d_conjunto.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 2">
+      <vfs_project >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\src\darbolbinario.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 2">
+      <vfs_project >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\src\d_priority_queue.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 2">
+      <vfs_project >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\src\d_conjunto.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 8" line=" 2">
+      <vfs_project >C:\GNAT\2019\bin\GPS projects\Huffman\huffman.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2019\bin\GPS projects\Huffman\src\darbolbinario.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
